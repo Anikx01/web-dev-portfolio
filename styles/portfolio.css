@@ -139,6 +139,10 @@ main section{
 .resume hr{
     margin: 30px 5px;
 }
+.btn-container{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
 /* Footer Styles */
 footer{
     padding: 130px 230px;
